@@ -1,0 +1,22 @@
+{
+  "customers": [
+    {
+      "first_name": "Lane",
+      "last_name": "Vivian",
+      "email": "tamiwanyja@mailinator.com",
+      "phone": "Skyler",
+      "address": "Solomon",
+      "description": "Nasim",
+      "id": 2
+    },
+    {
+      "first_name": "Debolina",
+      "last_name": "Mukherjee",
+      "email": "debolinam18@gmail.com",
+      "phone": "4444444",
+      "address": "dfg",
+      "description": "no",
+      "id": 3
+    }
+  ]
+}
